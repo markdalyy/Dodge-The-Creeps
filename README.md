@@ -60,8 +60,9 @@ It is the finished version of the game featured in the GDQuest YouTube tutorial
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Instructions on how to view the entire project locally (if you just want to play the game, <a href="#installation">skip to Installation</a>).
+
+To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
@@ -71,10 +72,17 @@ Things you need to use the software and how to install them.
    Go to [Godot Engine Official Website](https://godotengine.org/download "Download") and download the standard 64-bit version.
 
 ### Installation
+**To download the game:**
 
-1. Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Releases") section of this repostitory and download the zip folder.
+Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Releases") section of this repostitory and download *dodge-the-creeps.zip* under Assets.
 
-2. Open Godot and "Import" the zip file.
+**To view the entire project in Godot:**
+1. Clone the repo or download the source code (zip) under [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Releases").
+   ```sh
+   git clone https://github.com/MarkDaly64/Dodge-The-Creeps.git
+   ```
+
+2. Open Godot and "Import" either the project.godot file or project zip file.
    
 3. Run the project.
 
