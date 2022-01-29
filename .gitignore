@@ -9,4 +9,6 @@ lib/
 # Others
 addons/
 *.translation
+export.cfg
 export_presets.cfg
+.mono/
