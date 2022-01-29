@@ -82,7 +82,7 @@ Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Re
    git clone https://github.com/MarkDaly64/Dodge-The-Creeps.git
    ```
 
-2. Open Godot and "Import" either the project.godot file or project zip file.
+2. Open Godot and "Import" either the *project.godot* file or project zip file.
    
 3. Run the project.
 
