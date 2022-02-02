@@ -96,7 +96,7 @@ Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Re
 * Use the WASD keys to move the player and dodge the creeps.
 * Your score increases by 1 point every second you survive.
 
-Click [here](https://github.com/MarkDaly64/Dodge-The-Creeps "Demo") to view the demo.
+<!--Click [here](https://github.com/MarkDaly64/Dodge-The-Creeps "Demo") to view the demo. -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
