@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/MarkDaly64/Dodge-The-Creeps">
+  <a href="https://github.com/markdalyy/Dodge-The-Creeps">
     <img src="icon.png" alt="Logo" height="80" width="80"/>
   </a>
   <h3>Dodge The Creeps</h3>
@@ -8,14 +8,14 @@
   <p>
     My first 2D game in Godot!
     <br />
-    <a href="https://github.com/MarkDaly64/Dodge-The-Creeps"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/markdalyy/Dodge-The-Creeps"><strong>Explore the project »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MarkDaly64/Dodge-The-Creeps">View Demo</a>
+    <a href="https://github.com/markdalyy/Dodge-The-Creeps">View Demo</a>
     ·
-    <a href="https://github.com/MarkDaly64/Dodge-The-Creeps/issues">Report Bug</a>
+    <a href="https://github.com/markdalyy/Dodge-The-Creeps/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MarkDaly64/Dodge-The-Creeps/issues">Request Feature</a>
+    <a href="https://github.com/markdalyy/Dodge-The-Creeps/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,12 +74,12 @@ Things you need to use the software and how to install them.
 ### Installation
 **To download the game:**
 
-Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Releases") section of this repostitory and download *dodge-the-creeps.zip* under Assets.
+Go to the [Releases](https://github.com/markdalyy/Dodge-The-Creeps/releases "Releases") section of this repostitory and download *dodge-the-creeps.zip* under Assets.
 
 **To view the entire project in Godot:**
-1. Clone the repo or download the source code (zip) under [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Releases").
+1. Clone the repo or download the source code (zip) under [Releases](https://github.com/markdalyy/Dodge-The-Creeps/releases "Releases").
    ```sh
-   git clone https://github.com/MarkDaly64/Dodge-The-Creeps.git
+   git clone https://github.com/markdalyy/Dodge-The-Creeps.git
    ```
 
 2. Open Godot and "Import" either the *project.godot* file or project zip file.
@@ -96,7 +96,7 @@ Go to the [Releases](https://github.com/MarkDaly64/Dodge-The-Creeps/releases "Re
 * Use the WASD keys to move the player and dodge the creeps.
 * Your score increases by 1 point every second you survive.
 
-<!--Click [here](https://github.com/MarkDaly64/Dodge-The-Creeps "Demo") to view the demo. -->
+<!--Click [here](https://github.com/markdalyy/Dodge-The-Creeps "Demo") to view the demo. -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
